@@ -75,22 +75,16 @@
 	<dict>
 		<key></key>
 		<dict>
-			<key>isDirty</key>
-			<true/>
 			<key>previewFolderHidden</key>
 			<true/>
 		</dict>
 		<key>Levels</key>
 		<dict>
-			<key>isDirty</key>
-			<true/>
 			<key>previewFolderHidden</key>
 			<true/>
 		</dict>
 		<key>PeevedPenguinsAssets</key>
 		<dict>
-			<key>isDirty</key>
-			<true/>
 			<key>isSmartSpriteSheet</key>
 			<true/>
 			<key>previewFolderHidden</key>
@@ -100,8 +94,6 @@
 		<dict/>
 		<key>ccbResources</key>
 		<dict>
-			<key>isDirty</key>
-			<true/>
 			<key>previewFolderHidden</key>
 			<true/>
 		</dict>
